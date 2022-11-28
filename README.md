@@ -14,12 +14,12 @@ The website consists of seven pages as follows:
 
 At the top of every page, the website has a navigation bar that does the following:
 
-    1) Contains the name of the site on the left side of the navigation bar, allowing users to return to the landing page from any page.
+1) Contains the name of the site on the left side of the navigation bar, allowing users to return to the landing page from any page.
 
-    2) Contains a drop-down menu, named Plots, on the right side of the navigation bar that contains a link to each visualization page.
+2) Contains a drop-down menu, named Plots, on the right side of the navigation bar that contains a link to each visualization page.
 
-    3) Provides two more text links on the right side: Comparisons, which links to the comparisons page, and Data, which links to the data page.
+3) Provides two more text links on the right side: Comparisons, which links to the comparisons page, and Data, which links to the data page.
 
-    4) Is responsive (via media queries). 
+4) Is responsive (via media queries). 
 
 
