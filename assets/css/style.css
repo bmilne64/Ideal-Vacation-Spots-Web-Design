@@ -69,3 +69,10 @@ body {
     font-size: 15px;
     border-top-color: rgb(255, 255, 255);
   }
+
+  @media (max-width: 300px) {
+  
+    nav .navbar .navbar-custom {
+      background:rgb(52, 159, 165);
+  
+    }
