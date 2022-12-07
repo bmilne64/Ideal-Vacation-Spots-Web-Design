@@ -2,7 +2,7 @@
 
 https://bmilne64.github.io/Web-Design-Challenge/index.html
 
-In this assignment, I created a website by using the visualizations that you created for your Python-APIs Challenge thta can be found at https://github.com/bmilne64/python-api-challenge.
+In this project, I created a website by using the visualizations that you created for your Python-APIs Challenge thta can be found at https://github.com/bmilne64/python-api-challenge.
 
 The website consists of seven pages as follows:
 
