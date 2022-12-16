@@ -1,8 +1,8 @@
-# Web-Design-Challenge
+# Ideal Vacation Spots Web Design 
 
 https://bmilne64.github.io/Web-Design-Challenge/index.html
 
-In this project, I created a website by using the visualizations that you created for your Python-APIs Challenge thta can be found at https://github.com/bmilne64/python-api-challenge.
+In this project, I created a website by using the visualizations that I created for the Ideal Vacation Spots Project that can be found at https://github.com/bmilne64/python-api-challenge.
 
 The website consists of seven pages as follows:
 
@@ -13,15 +13,5 @@ The website consists of seven pages as follows:
 3) A comparisons page that contains all the visualizations on the same page so that people can easily compare them which uses a Bootstrap grid for the visualizations. 
 
 4) A data page that displays a responsive table containing the data that the visualizations use. 
-
-At the top of every page, the website has a navigation bar that does the following:
-
-1) Contains the name of the site on the left side of the navigation bar, allowing users to return to the landing page from any page.
-
-2) Contains a drop-down menu, named Plots, on the right side of the navigation bar that contains a link to each visualization page.
-
-3) Provides two more text links on the right side: Comparisons, which links to the comparisons page, and Data, which links to the data page.
-
-4) Is responsive (via media queries). 
 
 
