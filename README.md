@@ -1,6 +1,6 @@
 # Ideal Vacation Spots Web Design 
 
-https://bmilne64.github.io/Web-Design-Challenge/index.html
+https://bmilne64.github.io/Ideal-Vacation-Spots-Web-Design/
 
 In this project, I created a website by using the visualizations that I created for the Ideal Vacation Spots Project that can be found at https://github.com/bmilne64/python-api-challenge.
 
