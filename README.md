@@ -1,17 +1,39 @@
-# Ideal Vacation Spots Web Design 
+## Ideal Vacation Spots Web Design 
 
-https://bmilne64.github.io/Ideal-Vacation-Spots-Web-Design/
+![](images/screen_view.png)
 
-In this project, I created a website by using the visualizations that I created for the Ideal Vacation Spots Project that can be found at https://github.com/bmilne64/python-api-challenge.
+Website Visualization of Ideal Vacation Spots API Project
 
-The website consists of seven pages as follows:
+### Dataset:
 
-1) A landing page that contains an explanation of the project and a link to each visualization page within a sidebar containing a preview image of each visualization. 
+ [Ideal Vacation Spots API Project](https://github.com/bmilne64/python-api-challenge)
 
-2) Four visualization pages each with a descriptive title, the visualization for the selected comparison and a paragraph describing the visualization and its significance.
+## Objectives
 
-3) A comparisons page that contains all the visualizations on the same page so that people can easily compare them which uses a Bootstrap grid for the visualizations. 
+### Step 1 - Landing Page
 
-4) A data page that displays a responsive table containing the data that the visualizations use. 
+* Create a landing page that contains an explanation of the project and a link to each visualization page within a sidebar containing a preview image of each visualization
 
+![](images/screen_view.png)
 
+### Step 2 - Visualization Pages 
+
+* Create four visualization pages each with a descriptive title, the visualization for the selected comparison and a paragraph describing the visualization and its significance
+
+![](images/plots.png)
+
+### Step 3 - Comparisons Page 
+
+*  Create a comparisons page that contains all the visualizations on the same page and uses a Bootstrap grid for the visualizations so that people can easily compare them 
+
+![](images/comparison.png)
+
+### Step 4 - Data Page 
+
+* Create a data page that displays a table containing the data that the visualizations use
+
+![](images/data.png)
+
+---------------------------------------------------
+
+<b>Contact:</b> bronwynmilne64@gmail.com
